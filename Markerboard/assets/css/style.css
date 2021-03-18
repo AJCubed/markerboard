@@ -126,6 +126,13 @@ section {
   box-shadow: 0 10px 30px 0 rgba(0, 0, 0, 0.15);
 }
 
+.btn-edres {
+  border: 2px solid #278537;
+  margin: 10px;
+  color: #278537;
+  width: 25%;
+}
+
 /* Feature 1 */
 .feature-1 .wrap-icon {
   margin: 0 auto;
